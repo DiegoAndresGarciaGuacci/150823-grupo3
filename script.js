@@ -8,7 +8,7 @@ function mostrarJugadores(equipoArray){
  
   for (const item of equipoArray) {
   
-    juego.innerHTML += `<p> ${item.name} ${item.lastname} ${item.age} </p>`; 
+    juego.innerHTML += `<p> ${item.name} ${item.lastname}, edad ${item.age} </p>`; 
   }
 }
 

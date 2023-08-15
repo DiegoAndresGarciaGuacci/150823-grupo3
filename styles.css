@@ -1,5 +1,6 @@
 * {
 text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #foto {
@@ -10,8 +11,7 @@ text-align: center;
 }
 
 h1{
-    color: red;
-    font-family: 'Times New Roman', Times, serif;
+    color: rgba(255, 0, 0, 0.855);
     padding: 2px;
 }
 
@@ -25,4 +25,7 @@ body{
     background-color: rgba(0, 0, 255, 0.728);
 }
 
+p {
+    font-weight: bold;
 
+}
